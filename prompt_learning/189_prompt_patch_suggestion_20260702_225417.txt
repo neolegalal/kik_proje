@@ -1,0 +1,17 @@
+# 168 PROMPT ICIN ONERILEN EK BLOK
+# Bu metni 168 uretim promptunun kalite kurallari bolumune manuel ekleyebilirsin.
+
+ADAPTIVE_QUALITY_RULES = r"""
+- konu_ozeti alanında sadece kısa bir sonuç cümlesi yazma. En az iki cümle kur: ilk cümlede olay/iddia, ikinci cümlede Kurulun incelediği hukuki mesele anlatılsın.
+- Kararda açık mevzuat dayanağı geçiyorsa mevzuat alanını boş bırakma. Kanun, yönetmelik, tebliğ ve madde numaralarını mümkün olduğunca listele.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- anahtar alanı mutlaka liste olsun ve en az 5 öğe içersin. Genel kelimeler yerine hukuki mesele, belge türü, usul, sonuç ve mevzuat terimlerini kullan.
+- sonuc_ozeti alanını tek kısa cümle bırakma. Kurulun tespitini, hukuki sonucunu ve başvurunun/ihalenin akıbetini açıkça yaz.
+- sonuc_tipi alanında standart ve kısa değer kullan: RET, KABUL, DÜZELTİCİ İŞLEM, İPTAL, KISMEN KABUL veya KARAR VERİLMESİNE YER OLMADI.
+- hukuki_soru alanında idare, şirket, kişi veya yer adı kullanma. Soruyu danışmanlıkta tekrar kullanılabilecek genel bir soru haline getir.
+- konu_ozeti içinde Kurulun nihai kararını öne çıkarma. Bu alan kararın ne hakkında olduğunu ve hangi hukuki meselenin incelendiğini anlatmalıdır.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- baslik alanında idare, şirket veya kişi adı kullanma. Başlığı hukuki mesele odaklı ve webde yayınlanabilir şekilde yaz.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+"""

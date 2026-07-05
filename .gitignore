@@ -1,0 +1,71 @@
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Production Outputs
+# =========================
+production_logs/
+production_state/
+uretim_output/
+uretim_input/
+exports/
+export/
+raporlar/
+dashboards/
+sampling/
+supervisor/
+pilot_uretim/
+batch_planlari/
+
+# =========================
+# PDFs
+# =========================
+*.pdf
+pdfs - Kopya/
+
+# =========================
+# Office
+# =========================
+*.odt
+*.docx
+*.xlsx
+*.pptx
+~$*
+
+# =========================
+# Secrets
+# =========================
+.env
+*.env
+sk-*.txt
+apikey*
+api_key*
+secret*
+token*
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+.DS_Store

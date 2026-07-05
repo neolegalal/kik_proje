@@ -1,0 +1,78 @@
+[
+  {
+    "kod": "A01",
+    "kategori": "İhaleye Katılım ve Yeterlik",
+    "alt_kategoriler": [
+      "Yeterlik Kriterleri",
+      "İhaleye Katılamayacak Olanlar",
+      "Faaliyet Belgesi",
+      "Ticaret Sicil Gazetesi",
+      "İmza Sirküleri",
+      "Vekaletname",
+      "Ortaklık Tespit Belgesi",
+      "Yeterlik Bilgileri Tablosu",
+      "Yetkili Satıcı Belgesi",
+      "İmalatçı Belgesi",
+      "Kapasite Raporu",
+      "Kalite Belgeleri",
+      "Katalog",
+      "Numune",
+      "Demonstrasyon"
+    ]
+  },
+  {
+    "kod": "A02",
+    "kategori": "İş Deneyimi ve Mesleki Yeterlik",
+    "alt_kategoriler": [
+      "İş Deneyim Belgesi",
+      "İş Bitirme",
+      "İş Denetleme",
+      "İş Yönetme",
+      "Diploma",
+      "Benzer İş",
+      "Anahtar Personel"
+    ]
+  },
+  {
+    "kod": "A03",
+    "kategori": "Mali Yeterlik ve Mali Durum",
+    "alt_kategoriler": [
+      "Bilanço",
+      "Ciro",
+      "Vergi Borcu",
+      "Sosyal Güvenlik Prim Borcu"
+    ]
+  },
+  {
+    "kod": "A13",
+    "kategori": "Şikayet ve Başvuru Süreçleri",
+    "alt_kategoriler": [
+      "İdareye Şikayet",
+      "İtirazen Şikayet",
+      "Başvuru Süreleri",
+      "Düzeltici İşlem",
+      "Kurul Kararları"
+    ]
+  },
+  {
+    "kod": "A14",
+    "kategori": "İhale İptali ve Sonlandırılması",
+    "alt_kategoriler": [
+      "İhale İptal Nedenleri",
+      "Bütün Tekliflerin Reddedilmesi",
+      "Kamu Yararı Nedeniyle İptal",
+      "Düzeltici İşlem Sonrası İptal",
+      "Kurul Kararının Uygulanmaması"
+    ]
+  },
+  {
+    "kod": "A16",
+    "kategori": "Sözleşme Süreci",
+    "alt_kategoriler": [
+      "Sözleşme İmzalanması",
+      "Sözleşme Feshi",
+      "Süre Uzatımı",
+      "Mücbir Sebep"
+    ]
+  }
+]

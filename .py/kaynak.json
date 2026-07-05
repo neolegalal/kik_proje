@@ -1,0 +1,49 @@
+[
+ {
+  "ana_bolum":"İhale Hukuku (İdari Yargı)",
+  "kurum":"KİK",
+  "turler":[
+    "Uyuşmazlık Kararları",
+    "Düzenleyici Kararlar"
+  ]
+ },
+ {
+  "ana_bolum":"İhale Hukuku (İdari Yargı)",
+  "kurum":"İdare Mahkemesi",
+  "turler":[
+    "Kararlar"
+  ]
+ },
+ {
+  "ana_bolum":"İhale Hukuku (İdari Yargı)",
+  "kurum":"Danıştay",
+  "turler":[
+    "4734-4735",
+    "2886"
+  ]
+ },
+ {
+  "ana_bolum":"Sözleşme Uyuşmazlıkları (Adli Yargı)",
+  "kurum":"Yargıtay",
+  "turler":[
+    "4734-4735 Sözleşme",
+    "2886 Sözleşme"
+  ]
+ },
+ {
+  "ana_bolum":"Denetim / Mali / Teknik",
+  "kurum":"Sayıştay",
+  "turler":[
+    "Daire Kararları",
+    "Temyiz Kurulu"
+  ]
+ },
+ {
+  "ana_bolum":"Anayasal Denetim",
+  "kurum":"AYM",
+  "turler":[
+    "Norm Denetimi",
+    "Bireysel Başvuru"
+  ]
+ }
+]

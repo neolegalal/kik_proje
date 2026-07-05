@@ -1,0 +1,98 @@
+ADAPTIVE PROMPT LEARNING - ÖĞRENİLMİŞ ÜRETİM KURALLARI
+================================================================================
+
+Bu kurallar son üretim kalite loglarından otomatik çıkarılmıştır.
+168 üretim promptuna manuel olarak eklenmek üzere öneridir.
+
+1. KONU_OZETI_COK_KISA
+   Önem       : HIGH
+   Alan       : konu_ozeti
+   Kural      : konu_ozeti en az 2 cümle ve tercihen 35-80 kelime olmalıdır.
+   Prompt     : konu_ozeti alanında sadece kısa bir sonuç cümlesi yazma. En az iki cümle kur: ilk cümlede olay/iddia, ikinci cümlede Kurulun incelediği hukuki mesele anlatılsın.
+
+2. MEVZUAT_YOK
+   Önem       : MEDIUM
+   Alan       : mevzuat
+   Kural      : mevzuat alanı karar metninde açık dayanak varsa boş bırakılmamalıdır.
+   Prompt     : Kararda açık mevzuat dayanağı geçiyorsa mevzuat alanını boş bırakma. Kanun, yönetmelik, tebliğ ve madde numaralarını mümkün olduğunca listele.
+
+3. 177_WARNING_CARD
+   Önem       : MEDIUM
+   Alan       : hukuki_dogruluk
+   Kural      : 177 hakeminde tekrar eden hukuki doğruluk riski var; promptta dayanak metne bağlı kalma ve aşırı genellemeden kaçınma vurgusu artırılmalıdır.
+   Prompt     : Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+
+4. ANAHTAR_YETERSIZ
+   Önem       : HIGH
+   Alan       : anahtar
+   Kural      : anahtar listesi en az 5, tercihen 6-8 adet anlamlı terim içermelidir.
+   Prompt     : anahtar alanı mutlaka liste olsun ve en az 5 öğe içersin. Genel kelimeler yerine hukuki mesele, belge türü, usul, sonuç ve mevzuat terimlerini kullan.
+
+5. SONUC_OZETI_COK_KISA
+   Önem       : HIGH
+   Alan       : sonuc_ozeti
+   Kural      : sonuc_ozeti Kurulun vardığı sonucu, gerekçeyi ve işlem sonucunu açıkça göstermelidir.
+   Prompt     : sonuc_ozeti alanını tek kısa cümle bırakma. Kurulun tespitini, hukuki sonucunu ve başvurunun/ihalenin akıbetini açıkça yaz.
+
+6. SONUC_TIPI_STANDART_DISI
+   Önem       : MEDIUM
+   Alan       : sonuc_tipi
+   Kural      : sonuc_tipi standart değerlerden biri olmalıdır.
+   Prompt     : sonuc_tipi alanında standart ve kısa değer kullan: RET, KABUL, DÜZELTİCİ İŞLEM, İPTAL, KISMEN KABUL veya KARAR VERİLMESİNE YER OLMADI.
+
+7. HUKUKI_SORUDA_KURUM_SIRKET_ADI_OLABILIR
+   Önem       : LOW
+   Alan       : hukuki_soru
+   Kural      : hukuki_soru kurum/şirket adı içermeden genelleştirilmelidir.
+   Prompt     : hukuki_soru alanında idare, şirket, kişi veya yer adı kullanma. Soruyu danışmanlıkta tekrar kullanılabilecek genel bir soru haline getir.
+
+8. KONU_OZETI_SONUCA_KAYMIS_OLABILIR
+   Önem       : MEDIUM
+   Alan       : konu_ozeti
+   Kural      : konu_ozeti sonuç özeti gibi yazılmamalı; olay ve incelenen hukuki meseleyi anlatmalıdır.
+   Prompt     : konu_ozeti içinde Kurulun nihai kararını öne çıkarma. Bu alan kararın ne hakkında olduğunu ve hangi hukuki meselenin incelendiğini anlatmalıdır.
+
+9. 177_FAIL_CARD
+   Önem       : HIGH
+   Alan       : hukuki_dogruluk
+   Kural      : 177 hakeminde tekrar eden hukuki doğruluk riski var; promptta dayanak metne bağlı kalma ve aşırı genellemeden kaçınma vurgusu artırılmalıdır.
+   Prompt     : Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+
+10. 177_SONUÇ_TIPI_KABUL_OLARAK_VERILMIŞ_ANCAK_KARAR_METNINDE_SOMUT_OLAYDA_RET_DEĞIL_IPT
+   Önem       : MEDIUM
+   Alan       : hukuki_dogruluk
+   Kural      : 177 hakeminde tekrar eden hukuki doğruluk riski var; promptta dayanak metne bağlı kalma ve aşırı genellemeden kaçınma vurgusu artırılmalıdır.
+   Prompt     : Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+
+11. BASLIKTA_KURUM_SIRKET_ADI_OLABILIR
+   Önem       : LOW
+   Alan       : baslik
+   Kural      : baslik kurum/şirket adı içermeden yayınlanabilir olmalıdır.
+   Prompt     : baslik alanında idare, şirket veya kişi adı kullanma. Başlığı hukuki mesele odaklı ve webde yayınlanabilir şekilde yaz.
+
+12. 177_HIGH_OVERGENERALIZATION
+   Önem       : HIGH
+   Alan       : hukuki_dogruluk
+   Kural      : 177 hakeminde tekrar eden hukuki doğruluk riski var; promptta dayanak metne bağlı kalma ve aşırı genellemeden kaçınma vurgusu artırılmalıdır.
+   Prompt     : Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+
+--------------------------------------------------------------------------------
+ÖNERİLEN GENEL PROMPT EKİ
+--------------------------------------------------------------------------------
+
+ÜRETİM KALİTESİ İÇİN ZORUNLU EK KURALLAR:
+
+- konu_ozeti alanında sadece kısa bir sonuç cümlesi yazma. En az iki cümle kur: ilk cümlede olay/iddia, ikinci cümlede Kurulun incelediği hukuki mesele anlatılsın.
+- Kararda açık mevzuat dayanağı geçiyorsa mevzuat alanını boş bırakma. Kanun, yönetmelik, tebliğ ve madde numaralarını mümkün olduğunca listele.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- anahtar alanı mutlaka liste olsun ve en az 5 öğe içersin. Genel kelimeler yerine hukuki mesele, belge türü, usul, sonuç ve mevzuat terimlerini kullan.
+- sonuc_ozeti alanını tek kısa cümle bırakma. Kurulun tespitini, hukuki sonucunu ve başvurunun/ihalenin akıbetini açıkça yaz.
+- sonuc_tipi alanında standart ve kısa değer kullan: RET, KABUL, DÜZELTİCİ İŞLEM, İPTAL, KISMEN KABUL veya KARAR VERİLMESİNE YER OLMADI.
+- hukuki_soru alanında idare, şirket, kişi veya yer adı kullanma. Soruyu danışmanlıkta tekrar kullanılabilecek genel bir soru haline getir.
+- konu_ozeti içinde Kurulun nihai kararını öne çıkarma. Bu alan kararın ne hakkında olduğunu ve hangi hukuki meselenin incelendiğini anlatmalıdır.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+- baslik alanında idare, şirket veya kişi adı kullanma. Başlığı hukuki mesele odaklı ve webde yayınlanabilir şekilde yaz.
+- Karar metninde açıkça bulunmayan hukuki sonucu, mevzuat dayanağını veya genelleştirilmiş ilkeyi üretme. Emsal ilke karar metnindeki gerekçeyi aşmamalıdır.
+
+Bu kurallar mevcut JSON formatını değiştirmez; sadece alanların daha kaliteli doldurulmasını sağlar.
