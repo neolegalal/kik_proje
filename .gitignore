@@ -69,3 +69,5 @@ token*
 # =========================
 Thumbs.db
 .DS_Store
+# Personal local reports
+raporlarım/
