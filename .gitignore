@@ -69,3 +69,10 @@ token*
 # =========================
 Thumbs.db
 .DS_Store
+# LibreOffice temporary files
+.~lock*
+
+# Windows temporary files
+desktop.ini
+*.tmp
+*.bak
