@@ -1,0 +1,1 @@
+# 206.0 Scheduler SDK\n\nKomut:\n\npython ".py\\206_Scheduler_SDK.py" --test\n
