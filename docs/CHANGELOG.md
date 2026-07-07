@@ -1,12 +1,67 @@
+```md
 # CHANGELOG
 
 Bu dosya NeoLegal Production Platform'un sürüm geçmişini içerir.
+
+> Sürümler en yeniden eskiye doğru sıralanmıştır.
+
+---
+
+# v1.7 – Execution Layer
+
+**Tarih:** 08.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v1.7-execution-layer`
+
+## Yeni Modüller
+
+- 207.0 Execution SDK
+- 207.0 Execution Module Generator
+- 207.1 Batch Executor
+- 207.2 Worker Dispatcher
+- 207.3 Queue Executor
+- 207.4 Retry Executor
+- 207.5 Recovery Executor
+- 207.6 Parallel Engine
+- 207.7 Pipeline Engine
+- 207.8 Execution Dashboard
+- 207.9 Execution Decision Engine
+- 207.10 Execution Auditor
+- 207 Run All
+
+## Mimari Geliştirmeler
+
+- Execution SDK katmanı eklendi.
+- Execution Module Generator geliştirildi.
+- Execution modülleri standart mimaride otomatik üretilebilir hale getirildi.
+- Scheduler → Execution entegrasyonu tamamlandı.
+- Worker planlama altyapısı oluşturuldu.
+- Batch yürütme planlama mekanizması geliştirildi.
+- Execution Dashboard altyapısı eklendi.
+- Execution denetim (Auditor) katmanı oluşturuldu.
+
+## Sonuç
+
+Execution Layer başarıyla tamamlandı.
+
+Platform artık;
+
+- üretim kararlarını okuyabilen,
+- yürütme planı oluşturabilen,
+- worker dağılımı planlayabilen,
+- batch yürütme stratejileri geliştirebilen,
+- execution süreçlerini izleyebilen,
+- execution denetimi gerçekleştirebilen
+
+kurumsal bir Production Platform seviyesine ulaşmıştır.
 
 ---
 
 # v1.6 – Scheduler Subsystem
 
-Tarih: 08.07.2026
+**Tarih:** 08.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v1.6-scheduler-subsystem`
 
 ## Yeni Modüller
 
@@ -21,6 +76,16 @@ Tarih: 08.07.2026
 - 206.7 Batch Planner
 - 206.8 Scheduler Dashboard
 - 206.9 Scheduler Decision Engine
+- 206 Run All
+
+## Mimari Geliştirmeler
+
+- Scheduler SDK katmanı oluşturuldu.
+- Scheduler Module Generator geliştirildi.
+- Scheduler modülleri standart mimaride üretilebilir hale getirildi.
+- Scheduler Dashboard altyapısı oluşturuldu.
+- Scheduler Decision Engine geliştirildi.
+- Batch planlama altyapısı platforma eklendi.
 
 ## Sonuç
 
@@ -34,13 +99,17 @@ Platform artık;
 - Scheduler Dashboard
 - Scheduler Decision Engine
 
-ile tam Scheduler mimarisine geçmiştir.
+altyapılarına sahip tam Scheduler mimarisine geçmiştir.
+
+---
 
 # v1.5 – Intelligence Layer
 
-Date: 08.07.2026
+**Tarih:** 08.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v1.5-intelligence-layer`
 
-## Added
+## Yeni Modüller
 
 - Intelligence SDK
 - Bridge Generator
@@ -57,13 +126,26 @@ Date: 08.07.2026
 - Forecast Engine
 - Executive AI Summary
 
-## Result
+## Mimari Geliştirmeler
 
-The platform gained a complete Intelligence Layer capable of monitoring, analyzing, forecasting and summarizing production health.
+- Intelligence SDK oluşturuldu.
+- Ortak Bridge Generator geliştirildi.
+- Ortak Engine Generator geliştirildi.
+- Tüm Intelligence modülleri standart hale getirildi.
+- Run All altyapısı oluşturuldu.
+- Tahmin (Forecast) ve Executive AI Summary katmanları eklendi.
+
+## Sonuç
+
+Platform; üretim sağlığını izleyebilen, analiz edebilen, eğilimleri değerlendirebilen, tahmin üretebilen ve yönetici özetleri oluşturabilen tam kapsamlı Intelligence Layer mimarisine kavuşmuştur.
+
+---
 
 # v1.4 – Platform Core Services
 
-**Tarih:** 07.07.2026
+**Tarih:** 07.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v1.4-platform-core-services`
 
 ## Yeni Modüller
 
@@ -78,15 +160,16 @@ The platform gained a complete Intelligence Layer capable of monitoring, analyzi
 
 - Platform Core
 - Configuration Manager
-- Package yapısı
+- Paket mimarisi
 - Core servis katmanı
 
 ### 201 – Event Bus
 
 - Event Bus
 - Event Publisher
-- Event Bus Viewer / Auditor
-- JSONL event log
+- Event Bus Viewer
+- Event Auditor
+- JSONL tabanlı Event Log
 
 ### 202 – Platform Scheduler
 
@@ -102,22 +185,20 @@ The platform gained a complete Intelligence Layer capable of monitoring, analyzi
 - Logger Auditor
 - JSONL tabanlı log altyapısı
 
-## Mimari Kazanımlar
+## Mimari Geliştirmeler
 
-Bu sürüm ile platform:
-
-- Katmanlı mimariye geçmiştir.
-- Servis tabanlı yapıya taşınmıştır.
-- Platform Core katmanı oluşturulmuştur.
-- Merkezi Event Bus altyapısı kurulmuştur.
-- Merkezi Scheduler altyapısı oluşturulmuştur.
-- Merkezi Logger altyapısı oluşturulmuştur.
-- Paket mimarisi standart hale getirilmiştir.
+- Katmanlı mimariye geçildi.
+- Servis tabanlı yapı oluşturuldu.
+- Platform Core katmanı geliştirildi.
+- Merkezi Event Bus altyapısı kuruldu.
+- Merkezi Scheduler altyapısı oluşturuldu.
+- Merkezi Logger altyapısı geliştirildi.
+- Paket mimarisi standart hale getirildi.
 
 ## Production Durumu
 
 | Bileşen | Durum |
-|---|:---:|
+|---------|:-----:|
 | Production Certification | PASS |
 | Recovery | PASS |
 | Queue | PASS |
@@ -130,3 +211,4 @@ Bu sürüm ile platform:
 ## Sonraki Hedef
 
 204 Metrics & Monitoring
+```
