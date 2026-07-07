@@ -1,0 +1,57 @@
+{
+  "platform": {
+    "name": "NeoLegal Production Platform",
+    "version": "2.0",
+    "environment": "local",
+    "default_entrypoint": "200_Platform_Core"
+  },
+  "paths": {
+    "base_dir": "C:\\Users\\MSI\\Desktop\\kik_proje",
+    "py_dir": "C:\\Users\\MSI\\Desktop\\kik_proje\\.py",
+    "state_dir": "C:\\Users\\MSI\\Desktop\\kik_proje\\production_state",
+    "report_dir": "C:\\Users\\MSI\\Desktop\\kik_proje\\raporlar",
+    "config_dir": "C:\\Users\\MSI\\Desktop\\kik_proje\\config"
+  },
+  "runtime": {
+    "min_disk_gb": 50,
+    "default_timeout_seconds": 3600,
+    "safe_mode_default": true,
+    "production_execute_requires_flag": true
+  },
+  "queue": {
+    "default_worker": "worker-1",
+    "default_worker_pool": [
+      "worker-1",
+      "worker-2",
+      "worker-3"
+    ],
+    "max_attempts": 3,
+    "default_batch_size": 10
+  },
+  "modes": {
+    "status": true,
+    "health": true,
+    "registry": true,
+    "plan": true,
+    "execute": false,
+    "production": false,
+    "maintenance": true
+  },
+  "quality_gates": {
+    "require_registry_ready": true,
+    "require_platform_ready": true,
+    "require_recovery_clean": true,
+    "require_no_active_worker_running": true,
+    "require_no_failed_jobs": true
+  },
+  "github": {
+    "release_policy": "develop -> validation -> tag -> merge -> main -> production",
+    "last_confirmed_tag": "v1.3-dynamic-certification-recovery-pass"
+  },
+  "notes": [
+    "200 v2 Configuration Manager tarafından oluşturuldu.",
+    "Bu dosya production çalıştırmaz; yalnızca merkezi ayarları yönetir."
+  ],
+  "created_at": "2026-07-07 23:09:50",
+  "updated_at": "2026-07-07 23:09:50"
+}
