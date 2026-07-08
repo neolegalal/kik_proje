@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v2.2-ai-orchestrator-layer.md |
 | v2.1-learning-layer.md |
 | v2.0-self-healing-layer.md |
 | v1.9-autonomous-operations-layer.md |
