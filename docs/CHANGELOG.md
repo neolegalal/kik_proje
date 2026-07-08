@@ -7,6 +7,52 @@ Bu dosya NeoLegal Production Platform'un sürüm geçmişini içerir.
 
 ---
 
+# v1.8 – Automation Layer
+
+**Tarih:** 08.07.2026
+**Durum:** Production PASS
+**Git Tag:** `v1.8-automation-layer`
+
+## Yeni Modüller
+
+* 208.0 Automation SDK
+* 208.0 Automation Module Generator
+* 208.1 Automation Controller
+* 208.2 Trigger Manager
+* 208.3 Safe Run Gate
+* 208.4 Execution Trigger
+* 208.5 Metrics Refresh Automation
+* 208.6 Intelligence Refresh Automation
+* 208.7 Scheduler Feedback Automation
+* 208.8 Notification Automation
+* 208.9 Automation Dashboard
+* 208.10 Automation Auditor
+* 208 Run All
+
+## Mimari Geliştirmeler
+
+* Automation SDK katmanı oluşturuldu.
+* Automation Module Generator geliştirildi.
+* Automation modülleri standart mimaride otomatik üretilebilir hale getirildi.
+* Execution → Automation entegrasyonu tamamlandı.
+* Güvenli otomasyon tetikleme altyapısı oluşturuldu.
+* Automation Dashboard ve denetim katmanı eklendi.
+* Metrics, Intelligence ve Scheduler geri bildirim otomasyonu planlandı.
+
+## Sonuç
+
+Automation Layer başarıyla tamamlandı.
+
+Platform artık;
+
+* yürütme planlarını otomasyona dönüştürebilen,
+* güvenli tetikleme kuralları uygulayabilen,
+* otomasyon süreçlerini izleyebilen,
+* otomasyon denetimi gerçekleştirebilen
+
+kurumsal bir Automation mimarisine ulaşmıştır.
+
+
 # v1.7 – Execution Layer
 
 **Tarih:** 08.07.2026  
