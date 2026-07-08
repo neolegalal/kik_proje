@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v2.9-cloud-platform-layer.md |
 | v2.8-neolegal-ai-runtime-layer.md |
 | v2.7-large-scale-production-layer.md |
 | v2.6-production-cluster-layer.md |
