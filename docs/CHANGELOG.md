@@ -1,3 +1,30 @@
+# v3.1 – Production Data Factory
+
+**Tarih:** 09.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v3.1-production-data-factory`
+
+## Yeni Modüller
+
+- 500 Production Data Factory SDK
+- 501 Data Source Registry
+- 502 Decision Intake Engine
+- 503 Mass Batch Planner
+- 504 Production Queue Builder
+- 505 Quality Gate Binder
+- 506 Parallel Production Controller
+- 507 Data Factory Monitor
+- 508 Data Factory Dashboard
+- 509 Data Factory Auditor
+- 510 Large Scale Launch Manager
+- 500 Run All
+
+## Sonuç
+
+NeoLegal Production Platform v3.1 ile büyük ölçekli veri üretimi hazırlığına geçti.
+
+---
+
 # v3.0 – NeoLegal Production OS
 
 **Tarih:** 09.07.2026  
