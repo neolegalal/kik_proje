@@ -2,6 +2,12 @@
 
 | Release |
 |---|
+| v2.8-neolegal-ai-runtime-layer.md |
+| v2.7-large-scale-production-layer.md |
+| v2.6-production-cluster-layer.md |
+| v2.5-enterprise-platform-layer.md |
+| v2.4-continuous-improvement-layer.md |
+| v2.3-knowledge-graph-layer.md |
 | v2.2-ai-orchestrator-layer.md |
 | v2.1-learning-layer.md |
 | v2.0-self-healing-layer.md |
