@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v4.0-intelligent-production-engine.md |
 | v3.2-production-factory-runtime.md |
 | v3.1-production-data-factory.md |
 | v3.0-neolegal-production-os.md |
