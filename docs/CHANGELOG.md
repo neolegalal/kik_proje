@@ -1,3 +1,31 @@
+# v2.1 – Learning Layer
+
+**Tarih:** 09.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v2.1-learning-layer`
+
+## Yeni Modüller
+
+- 211.0 Learning SDK
+- 211.0 Learning Module Generator
+- 211.1 Experience Collector
+- 211.2 Pattern Learner
+- 211.3 Failure Learner
+- 211.4 Success Learner
+- 211.5 Worker Learning
+- 211.6 Batch Learning
+- 211.7 Recommendation Engine
+- 211.8 Learning Dashboard
+- 211.9 Learning Decision Engine
+- 211.10 Learning Auditor
+- 211 Run All
+
+## Sonuç
+
+Learning Layer başarıyla tamamlandı.
+
+---
+
 # v2.0 – Self-Healing Layer
 
 **Tarih:** 09.07.2026  
