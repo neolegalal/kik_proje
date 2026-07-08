@@ -10,6 +10,7 @@
 | v2.4-continuous-improvement-layer.md |
 | v2.3-knowledge-graph-layer.md |
 | v2.2-ai-orchestrator-layer.md |
+| v2.12-neolegal-kernel-layer.md |
 | v2.11-audit-intelligence-layer.md |
 | v2.10-security-governance-layer.md |
 | v2.1-learning-layer.md |
