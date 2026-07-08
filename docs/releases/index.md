@@ -10,6 +10,7 @@
 | v2.4-continuous-improvement-layer.md |
 | v2.3-knowledge-graph-layer.md |
 | v2.2-ai-orchestrator-layer.md |
+| v2.16-neolegal-platform-os-layer.md |
 | v2.15-neolegal-api-gateway-layer.md |
 | v2.14-neolegal-ai-runtime-layer.md |
 | v2.13-neolegal-enterprise-services-layer.md |
