@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v3.0-neolegal-production-os.md |
 | v2.9-cloud-platform-layer.md |
 | v2.8-neolegal-ai-runtime-layer.md |
 | v2.7-large-scale-production-layer.md |
