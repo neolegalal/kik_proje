@@ -1,133 +1,406 @@
-# KİK Production Platform
+\# NeoLegal Production Platform
 
-**Status:** v1.0 - Production Validation 250 PASS  
-**Final Controller:** 181 v13  
-**Project Type:** Kamu İhale Kurulu kararları için WEB + AI/RAG üretim platformu
 
----
 
-## Projenin Amacı
+\*\*Status:\*\* v1.8 – Automation Layer (Production PASS)
 
-Bu proje, Kamu İhale Kurulu kararlarını profesyonel bir hukuk bilgi platformu ve AI/RAG danışmanlık altyapısı için yapılandırılmış kartlara dönüştürür.
+\*\*Latest Release:\*\* v1.8-automation-layer
 
-İki ana hedef vardır:
+\*\*Project Type:\*\* Kamu İhale Kurulu kararları için WEB + AI/RAG üretim platformu
 
-1. **WEB Bilgi Platformu**  
-   Kamu İhale Kurulu kararlarının soru, konu, mevzuat, emsal ilke ve anahtar kelime bazlı aranabilmesi.
 
-2. **AI / RAG Hukuki Danışmanlık Sistemi**  
-   Üretilen kartların GPT, Claude, Gemini, Qwen ve NeoLegal AI gibi modeller tarafından yüksek doğrulukla kullanılabilmesi.
 
----
+\---
 
-## Mevcut Durum
 
-181 v13 Final Master Production Controller ile 250 karar Production Validation testi başarıyla tamamlanmıştır.
 
-Son doğrulama sonucu:
+\# Projenin Amacı
+
+
+
+NeoLegal Production Platform, Kamu İhale Kurulu kararlarını yüksek doğrulukla işleyerek;
+
+
+
+\* profesyonel bir \*\*WEB bilgi platformu\*\*,
+
+\* gelişmiş bir \*\*AI / RAG danışmanlık sistemi\*\*,
+
+\* uzun vadeli bir \*\*hukuki bilgi altyapısı\*\*
+
+
+
+oluşturmak amacıyla geliştirilmektedir.
+
+
+
+Platform yalnızca karar üretmez; aynı zamanda üretim sürecini analiz eder, planlar, yürütür ve otomasyon seviyesinde yönetebilir.
+
+
+
+\---
+
+
+
+\# Ana Hedefler
+
+
+
+\## 1. WEB Bilgi Platformu
+
+
+
+Kamu İhale Kurulu kararlarının;
+
+
+
+\* soru bazlı,
+
+\* konu bazlı,
+
+\* mevzuat bazlı,
+
+\* emsal ilke bazlı,
+
+\* anahtar kelime bazlı
+
+
+
+aranabilmesini sağlamak.
+
+
+
+\---
+
+
+
+\## 2. AI / RAG Hukuki Danışmanlık
+
+
+
+Üretilen kartların;
+
+
+
+\* GPT
+
+\* Claude
+
+\* Gemini
+
+\* Qwen
+
+\* NeoLegal AI
+
+
+
+tarafından yüksek doğrulukla kullanılabilecek yapıya dönüştürülmesi.
+
+
+
+\---
+
+
+
+\# Platform Mimarisi
+
+
 
 ```text
-Final büyük üretime hazır mı: EVET
+
+Production
+
+&#x20;       │
+
+&#x20;       ▼
+
+Metrics \& Monitoring
+
+&#x20;       │
+
+&#x20;       ▼
+
+Intelligence Layer
+
+&#x20;       │
+
+&#x20;       ▼
+
+Scheduler Layer
+
+&#x20;       │
+
+&#x20;       ▼
+
+Execution Layer
+
+&#x20;       │
+
+&#x20;       ▼
+
+Automation Layer
+
 ```
 
-Bu sürüm, projenin ilk resmi Production Ready kilometre taşıdır.
 
----
 
-## Ana Pipeline
+\---
+
+
+
+\# Production Pipeline
+
+
 
 ```text
+
 168 Production
+
 → 188 Auto Cleaner
+
 → 172 AI Quality
-→ 191 AI Fail Cleaner (gerekirse)
+
+→ 191 AI Fail Cleaner
+
 → 175 Coverage
+
 → 176 Priority
+
 → 177 Legal Accuracy
-→ 185 Correction (gerekirse)
-→ 185 v2 Quarantine (gerekirse)
+
+→ 185 Correction
+
+→ 185 v2 Quarantine
+
 → 178 Merge
+
 → 179 Optimization
+
 → 180 Complexity
+
 → 169 DB Import
+
 → 170 WEB / RAG Export
+
 → 173 Master Acceptance
+
 → 182 Drift Analysis
+
 → 183 Sampling QA
+
 → 184 Dashboard
+
 → 190 Supervisor
+
 ```
 
----
 
-## Önemli Modüller
 
-| Modül | Görev |
-|---|---|
-| 168 | Production üretim motoru |
-| 188 | Production auto-cleaner |
-| 172 | AI kalite hakemi |
-| 191 | AI kalite fail cleaner |
-| 175 | Hukuki mesele kapsam analizi |
-| 176 | Önceliklendirme analizi |
-| 177 | Hukuki doğruluk hakemi |
-| 185 | Hukuki doğruluk düzeltme |
-| 185 v2 | Karantina motoru |
-| 178 | Akıllı kart birleştirme |
-| 179 | Kart optimizasyon |
-| 180 | Karar karmaşıklık analizi |
-| 169 | DB import |
-| 170 | WEB/RAG export |
-| 173 | Master acceptance |
-| 181 v13 | Final master controller |
-| 182 | Production drift |
-| 183 | Sampling QA |
-| 184 | Dashboard |
-| 190 | Supervisor |
+\---
 
----
 
-## GitHub'a Dahil Edilmeyenler
 
-Aşağıdaki klasörler/dosyalar GitHub'a gönderilmez:
+\# Platform Katmanları
 
-- production logs
-- production state
-- üretim çıktıları
-- export dosyaları
-- PDF arşivleri
-- veritabanları
-- API anahtarları
-- Office dosyaları
 
-Bunlar `.gitignore` ile dışarıda bırakılmıştır.
 
----
+| Katman                   | Durum |
 
-## Sürümleme
+| ------------------------ | :---: |
 
-İlk resmi sürüm:
+| 200 Platform Core        |   ✅   |
+
+| 201 Event Bus            |   ✅   |
+
+| 202 Platform Scheduler   |   ✅   |
+
+| 203 Central Logger       |   ✅   |
+
+| 204 Metrics \& Monitoring |   ✅   |
+
+| 205 Intelligence Layer   |   ✅   |
+
+| 206 Scheduler Layer      |   ✅   |
+
+| 207 Execution Layer      |   ✅   |
+
+| 208 Automation Layer     |   ✅   |
+
+
+
+\---
+
+
+
+\# Mevcut Durum
+
+
+
+Platform şu anda;
+
+
+
+\* Production PASS
+
+\* Metrics
+
+\* Intelligence
+
+\* Scheduler
+
+\* Execution
+
+\* Automation
+
+
+
+katmanlarını tamamlamış durumdadır.
+
+
+
+Production doğrulaması başarıyla geçilmiş ve katmanlı mimari oluşturulmuştur.
+
+
+
+\---
+
+
+
+\# GitHub'a Dahil Edilmeyenler
+
+
+
+Aşağıdaki içerikler Git deposuna eklenmez:
+
+
+
+\* production logs
+
+\* production state
+
+\* export dosyaları
+
+\* üretim çıktıları
+
+\* PDF arşivleri
+
+\* SQLite veritabanları
+
+\* API anahtarları
+
+\* Office belgeleri
+
+\* geçici çalışma dosyaları
+
+
+
+Bu içerikler `.gitignore` ile yönetilmektedir.
+
+
+
+\---
+
+
+
+\# Proje Yapısı
+
+
 
 ```text
-v1.0-production-250-pass
+
+kik\_proje/
+
+│
+
+├── .py/
+
+├── docs/
+
+│   └── releases/
+
+├── production\_state/
+
+├── raporlar/
+
+├── tests/
+
+├── CHANGELOG.md
+
+├── LICENSE
+
+└── README.md
+
 ```
 
-Bu sürüm 250 karar Production Validation testinin PASS olmasıyla oluşturulmuştur.
 
----
 
-## Yol Haritası
+\---
 
-1. 500 Batch Production Validation
-2. 1000 Batch Production Validation
-3. 194 Legacy Card Migration
-4. Dashboard revizyonu
-5. Supervisor revizyonu
-6. Parallel API / Retry / Resume / Backoff
-7. Yaklaşık 100.000 karar production üretimi
 
----
 
-## Not
+\# Release History
 
-Bu repo, uzun vadede NeoLegal AI ve Kamu İhale Hukuku bilgi platformu için temel production altyapısıdır.
+
+
+| Version | Description                      | Status |
+
+| ------- | -------------------------------- | :----: |
+
+| v1.8    | Automation Layer                 |  PASS  |
+
+| v1.7    | Execution Layer                  |  PASS  |
+
+| v1.6    | Scheduler Subsystem              |  PASS  |
+
+| v1.5    | Intelligence Layer               |  PASS  |
+
+| v1.4    | Platform Core Services           |  PASS  |
+
+| v1.3    | Dynamic Certification \& Recovery |  PASS  |
+
+| v1.2    | Resume Engine Validation         |  PASS  |
+
+| v1.1    | Production 500 PASS              |  PASS  |
+
+| v1.0    | Production 250 PASS              |  PASS  |
+
+
+
+\---
+
+
+
+\# Yol Haritası
+
+
+
+\* 209 Autonomous Operations Layer
+
+\* 210 Self-Healing Production
+
+\* 211 AI Orchestrator
+
+\* 212 Continuous Learning
+
+\* Yaklaşık 100.000 kararın production seviyesinde işlenmesi
+
+\* NeoLegal AI danışmanlık platformunun canlıya alınması
+
+
+
+\---
+
+
+
+\# Lisans
+
+
+
+Bu proje NeoLegal Production Platform mimarisinin geliştirilmesi amacıyla oluşturulmuştur.
+
+
+
+Tüm hakları saklıdır.
+
+
+
