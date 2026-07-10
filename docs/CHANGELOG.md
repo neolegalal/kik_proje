@@ -1,3 +1,26 @@
+# v20.0 – NeoLegal Legal Brain
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v20.0-neolegal-legal-brain`
+
+## Yeni Modüller
+
+- 2100 NeoLegal Legal Brain SDK
+- 2101 Legal Memory
+- 2102 Legal Thinking Engine
+- 2103 Alternative Outcome Simulator
+- 2104 Judge Simulation
+- 2105 Opposition Simulation
+- 2106 Hearing Simulation
+- 2107 Negotiation Engine
+- 2108 Legal Copilot Core
+- 2109 Self Reflection Engine
+- 2110 Legal Brain Certificate
+- 2100 Run All
+
+---
+
 # v19.0 – Validation & Benchmark Platform
 
 **Tarih:** 10.07.2026  
