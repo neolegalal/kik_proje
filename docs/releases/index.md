@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v4.3-production-safety-gate.md |
 | v4.2-real-production-engine.md |
 | v4.1-pilot-production-launcher.md |
 | v4.0-intelligent-production-engine.md |
