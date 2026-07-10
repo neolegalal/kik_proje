@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v6.0-production-operations.md |
 | v5.0-production-master.md |
 | v4.3-production-safety-gate.md |
 | v4.2-real-production-engine.md |
