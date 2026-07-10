@@ -1,3 +1,30 @@
+# v8.0 – Legal Advisory Intelligence
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v8.0-legal-advisory-intelligence`
+
+## Yeni Modüller
+
+- 1300 Legal Advisory Intelligence SDK
+- 1301 Case Intake Analyzer
+- 1302 Claim Defense Mapper
+- 1303 Legal Basis Finder
+- 1304 Precedent Strength Analyzer
+- 1305 Outcome Probability Scorer
+- 1306 Defense Draft Generator
+- 1307 Complaint Appeal Draft Generator
+- 1308 Court Application Risk Analyzer
+- 1309 Strategy Recommendation Engine
+- 1310 Advisory Quality Auditor
+- 1300 Run All
+
+## Sonuç
+
+Hedef 2, karar arama sisteminden hukuki strateji ve danışmanlık zekâsına genişletildi.
+
+---
+
 # v7.0 – Decision Processing Pipeline
 
 **Tarih:** 10.07.2026  
