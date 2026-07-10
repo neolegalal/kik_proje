@@ -1,3 +1,26 @@
+# v22.0 – NeoLegal Platform Governance
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v22.0-neolegal-platform-governance`
+
+## Yeni Modüller
+
+- 2300 NeoLegal Platform Governance SDK
+- 2301 Version Manager
+- 2302 Model Registry
+- 2303 Data Lifecycle Manager
+- 2304 Audit Log Center
+- 2305 Security Policy Engine
+- 2306 Role Permission Manager
+- 2307 Monitoring KPI Center
+- 2308 Compliance Manager
+- 2309 Disaster Recovery Manager
+- 2310 Governance Certificate
+- 2300 Run All
+
+---
+
 # v21.0 – NeoLegal Autonomous Legal Expert
 
 **Tarih:** 10.07.2026  
