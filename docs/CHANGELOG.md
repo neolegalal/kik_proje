@@ -1,3 +1,35 @@
+# v18.6–v18.8 – Case Intelligence, Legal Graph & AI Trainer
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v18.6-v18.8-case-graph-trainer`
+
+## Yeni Modüller
+
+- 1970-1990 Case Graph Trainer SDK
+- 1971 Dispute Priority Scorer
+- 1972 Main Issue Detector
+- 1973 Sub Issue Mapper
+- 1974 Result Impact Analyzer
+- 1975 Case Intelligence Auditor
+- 1981 Graph Node Builder
+- 1982 Graph Edge Builder
+- 1983 Precedent Relation Builder
+- 1984 Contradiction Relation Builder
+- 1985 Legal Graph Auditor
+- 1991 Instruction Dataset Builder
+- 1992 Rag Dataset Builder
+- 1993 Fine Tuning Dataset Builder
+- 1994 Evaluation Benchmark Builder
+- 1995 AI Trainer Certificate
+- 1970_1990 Run All
+
+## Sonuç
+
+NeoLegal, Master Record çıktılarından case intelligence, graph ve AI dataset üretme katmanına taşındı.
+
+---
+
 # v18.5 – Unified Decision Processor
 
 **Tarih:** 10.07.2026  
