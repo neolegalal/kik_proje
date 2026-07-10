@@ -1,3 +1,30 @@
+# v7.0 – Decision Processing Pipeline
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v7.0-decision-processing-pipeline`
+
+## Yeni Modüller
+
+- 1100 Decision Processing Pipeline SDK
+- 1101 Decision Source Reader
+- 1102 Text Normalizer
+- 1103 Decision Metadata Extractor
+- 1104 Question Title Generator
+- 1105 Decision Summary Generator
+- 1106 Result Summary Generator
+- 1107 Keyword Legislation Tagger
+- 1108 Card Quality Gate
+- 1109 Web Rag Card Builder
+- 1110 Decision Pipeline Auditor
+- 1100 Run All
+
+## Sonuç
+
+NeoLegal Data Pipeline v7.0 ile karar işleme hattı başlatıldı.
+
+---
+
 # v6.0 – Production Operations
 
 **Tarih:** 10.07.2026  

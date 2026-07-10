@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v7.0-decision-processing-pipeline.md |
 | v6.0-production-operations.md |
 | v5.0-production-master.md |
 | v4.3-production-safety-gate.md |
