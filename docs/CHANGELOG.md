@@ -1,3 +1,45 @@
+# v11.0 / v12.0 – NeoLegal Expert Workspace
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tags:** `v11.0-neolegal-expert-orchestrator`, `v12.0-client-workspace-knowledge-memory`
+
+## v11.0 Modüller
+
+- 1600 NeoLegal Expert Orchestrator SDK
+- 1601 Case Intake Orchestrator
+- 1602 Decision Retrieval Orchestrator
+- 1603 Advisory Orchestrator
+- 1604 Litigation Orchestrator
+- 1605 Legal Reasoning Orchestrator
+- 1606 Conflict Resolver
+- 1607 Final Legal Opinion Generator
+- 1608 Action Plan Generator
+- 1609 Expert Quality Auditor
+- 1610 NeoLegal Expert Certificate
+- 1600/1700 Run All
+
+## v12.0 Modüller
+
+- 1700 Client Workspace & Knowledge Memory SDK
+- 1701 Client Profile Manager
+- 1702 Case Workspace Manager
+- 1703 Conversation Memory Manager
+- 1704 Document Memory Indexer
+- 1705 Strategy History Tracker
+- 1706 Deadline Reminder Planner
+- 1707 Task Action Board
+- 1708 Knowledge Memory Retriever
+- 1709 Workspace Dashboard
+- 1710 Workspace Quality Auditor
+- 1600/1700 Run All
+
+## Sonuç
+
+NeoLegal, tek uzman görüşü üreten orchestrator ve müvekkil/dosya hafızası katmanına taşındı.
+
+---
+
 # v10.0 – Legal Reasoning Engine
 
 **Tarih:** 10.07.2026  

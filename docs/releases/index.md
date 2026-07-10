@@ -43,6 +43,8 @@
 | v2.10-security-governance-layer.md |
 | v2.1-learning-layer.md |
 | v2.0-self-healing-layer.md |
+| v12.0-client-workspace-knowledge-memory.md |
+| v11.0-neolegal-expert-orchestrator.md |
 | v10.0-legal-reasoning-engine.md |
 | v1.9-autonomous-operations-layer.md |
 | v1.8-automation-layer.md |
