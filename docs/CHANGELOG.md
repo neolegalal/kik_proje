@@ -1,3 +1,30 @@
+# v18.5 – Unified Decision Processor
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v18.5-unified-decision-processor`
+
+## Yeni Modüller
+
+- 1950 Unified Decision Processor SDK
+- 1951 Dispute Topic Splitter
+- 1952 Decision Metadata Reader
+- 1953 Per Topic Legal Analyzer
+- 1954 Engine Chain Orchestrator
+- 1955 Master Record Builder
+- 1956 Web Card Exporter
+- 1957 Rag Context Exporter
+- 1958 Unified Quality Gate
+- 1959 Pilot Batch Runner
+- 1960 Production Pilot Certificate
+- 1950 Run All
+
+## Sonuç
+
+NeoLegal, tek karar içindeki çoklu uyuşmazlıkları ayırarak Master Record üretme katmanına taşındı.
+
+---
+
 # v18.0 – NeoLegal Evolution Platform
 
 **Tarih:** 10.07.2026  
