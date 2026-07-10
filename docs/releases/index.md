@@ -2,6 +2,7 @@
 
 | Release |
 |---|
+| v9.0-litigation-intelligence-platform.md |
 | v8.0-legal-advisory-intelligence.md |
 | v7.0-decision-processing-pipeline.md |
 | v6.0-production-operations.md |

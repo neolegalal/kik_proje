@@ -1,3 +1,30 @@
+# v9.0 – Litigation Intelligence Platform
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v9.0-litigation-intelligence-platform`
+
+## Yeni Modüller
+
+- 1400 Litigation Intelligence Platform SDK
+- 1401 Complaint Draft Engine
+- 1402 Appeal Draft Engine
+- 1403 Administrative Case Draft Engine
+- 1404 Defense Reply Engine
+- 1405 Counter Defense Analyzer
+- 1406 Evidence Gap Analyzer
+- 1407 Stay Of Execution Analyzer
+- 1408 Hearing Strategy Planner
+- 1409 Litigation Probability Updater
+- 1410 Litigation Quality Auditor
+- 1400 Run All
+
+## Sonuç
+
+NeoLegal, başvuru/dava dosyası hazırlama ve dava stratejisi üretme katmanına taşındı.
+
+---
+
 # v8.0 – Legal Advisory Intelligence
 
 **Tarih:** 10.07.2026  
