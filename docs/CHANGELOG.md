@@ -1,3 +1,26 @@
+# v21.0 – NeoLegal Autonomous Legal Expert
+
+**Tarih:** 10.07.2026  
+**Durum:** Production PASS  
+**Git Tag:** `v21.0-neolegal-autonomous-legal-expert`
+
+## Yeni Modüller
+
+- 2200 NeoLegal Autonomous Legal Expert SDK
+- 2201 Autonomous Case Intake
+- 2202 Automatic Evidence Analyzer
+- 2203 Legal Strategy Planner
+- 2204 Defense Generator
+- 2205 Complaint Generator
+- 2206 Appeal Generator
+- 2207 Case Success Predictor
+- 2208 Client Workspace AI
+- 2209 Continuous Self Learning
+- 2210 Autonomous Expert Certificate
+- 2200 Run All
+
+---
+
 # v20.0 – NeoLegal Legal Brain
 
 **Tarih:** 10.07.2026  
