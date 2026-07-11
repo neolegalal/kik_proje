@@ -1,0 +1,28 @@
+{
+  "kik_id": "kik_97ce487e8c5892e1fb06",
+  "slug": "2016-uy-i-2282-92e1fb06",
+  "search_key": "2016UYI2282",
+  "decision_label": "2016-UY.I-2282",
+  "filename": "2016.09.07_KIK_2016-UY.I-2282.pdf",
+  "court_decision_count": 2,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_2eb60298ca21c63c9519",
+      "court_id": "court_ddb023bc1205ff378791",
+      "court_slug": "2017-01-18-idare-2017-mk-21-ff378791",
+      "court_filename": "2017.01.18_IDARE_2017_MK-21.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_e8d6a1c5461442afdf9c",
+      "court_id": "court_ae0a91abb9751a30d62b",
+      "court_slug": "2017-06-07-idare-2017-mk-236-1a30d62b",
+      "court_filename": "2017.06.07_IDARE_2017_MK-236.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

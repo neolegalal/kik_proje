@@ -1,0 +1,28 @@
+{
+  "kik_id": "kik_9a2c7d09d0beaa6875f5",
+  "slug": "2020-uh-i-561-aa6875f5",
+  "search_key": "2020UHI561",
+  "decision_label": "2020-UH.I-561",
+  "filename": "2020.03.18_KIK_2020-UH.I-561.pdf",
+  "court_decision_count": 2,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_3b9e6dd16579353d1ea6",
+      "court_id": "court_3cfd4a49aa4ccb66b71e",
+      "court_slug": "2021-06-30-idare-2021-mk-268-cb66b71e",
+      "court_filename": "2021.06.30_IDARE_2021_MK-268.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_e776ca93da190266a9bb",
+      "court_id": "court_c62303be62a7d564bf33",
+      "court_slug": "2021-11-24-idare-2021-mk-456-d564bf33",
+      "court_filename": "2021.11.24_IDARE_2021_MK-456.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

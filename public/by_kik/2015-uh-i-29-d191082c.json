@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_9d0f02f7d1d9d191082c",
+  "slug": "2015-uh-i-29-d191082c",
+  "search_key": "2015UHI29",
+  "decision_label": "2015-UH.I-29",
+  "filename": "2015.01.07_KIK_2015-UH.I-29.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_d52d7e84791fa38192b7",
+      "court_id": "court_07be7c287a09587e82a5",
+      "court_slug": "2015-08-19-idare-2015-mk-384-587e82a5",
+      "court_filename": "2015.08.19_IDARE_2015_MK-384.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_f1d19f290df4cfe7741e",
+      "court_id": "court_3f071e3b2282d93c731a",
+      "court_slug": "2016-01-14-idare-2016-mk-18-d93c731a",
+      "court_filename": "2016.01.14_IDARE_2016_MK-18.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_ca88c78b9ca22aad6e8e",
+      "court_id": "court_0b0bdc429ce3d5dfec8e",
+      "court_slug": "2016-02-17-idare-2016-mk-64-d5dfec8e",
+      "court_filename": "2016.02.17_IDARE_2016_MK-64.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_4f7e765277457acf07ca",
+      "court_id": "court_9b2bcd2503ad254621a7",
+      "court_slug": "2017-04-26-idare-2017-mk-167-254621a7",
+      "court_filename": "2017.04.26_IDARE_2017_MK-167.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_dc899c2e70a7d41de85f",
+      "court_id": "court_89fb0f8be12f41a47682",
+      "court_slug": "2017-04-26-idare-2017-mk-168-41a47682",
+      "court_filename": "2017.04.26_IDARE_2017_MK-168.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

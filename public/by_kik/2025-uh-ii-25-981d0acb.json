@@ -1,0 +1,109 @@
+{
+  "kik_id": "kik_3b37ebaee0bf981d0acb",
+  "slug": "2025-uh-ii-25-981d0acb",
+  "search_key": "2025UHII25",
+  "decision_label": "2025-UH.II-25",
+  "filename": "2025.01.02_KIK_2025-UH.II-25.pdf",
+  "court_decision_count": 11,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_25c06b5196c0e68f48ef",
+      "court_id": "court_da2ea7b6998751780ec0",
+      "court_slug": "2026-01-28-idare-2026-mk-25-51780ec0",
+      "court_filename": "2026.01.28_IDARE_2026_MK-25.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9be54b52b5b8dab9ac39",
+      "court_id": "court_65329c5b4782c6249b4b",
+      "court_slug": "2026-03-04-idare-2026-mk-75-c6249b4b",
+      "court_filename": "2026.03.04_IDARE_2026_MK-75.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_f8a3fe020136f40096e8",
+      "court_id": "court_84cb3d8cd0ce7f2310ed",
+      "court_slug": "2026-03-12-idare-2026-mk-80-7f2310ed",
+      "court_filename": "2026.03.12_IDARE_2026_MK-80.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_2f5cf3695c1e8aee22df",
+      "court_id": "court_66572f4ef8f6a13160ee",
+      "court_slug": "2026-03-12-idare-2026-mk-85-a13160ee",
+      "court_filename": "2026.03.12_IDARE_2026_MK-85.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_dfc97aad767471aee9ab",
+      "court_id": "court_f1ed8f946c8d89cd0129",
+      "court_slug": "2026-03-26-idare-2026-mk-102-89cd0129",
+      "court_filename": "2026.03.26_IDARE_2026_MK-102.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_6e9c0cb693e691612a41",
+      "court_id": "court_12e9764d155652e9950a",
+      "court_slug": "2026-04-08-idare-2026-mk-124-52e9950a",
+      "court_filename": "2026.04.08_IDARE_2026_MK-124.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_93177242615e2f6ff679",
+      "court_id": "court_12026e53df2c74d8985b",
+      "court_slug": "2026-04-08-idare-2026-mk-128-74d8985b",
+      "court_filename": "2026.04.08_IDARE_2026_MK-128.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_98ae3a8e7b99ac95677d",
+      "court_id": "court_12015b7b6ecd0ae2bae1",
+      "court_slug": "2026-04-29-kik-2026-mk-151-0ae2bae1",
+      "court_filename": "2026.04.29_KIK_2026-MK-151.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9b3700307c394b85fdd8",
+      "court_id": "court_bd95e333f7254a8c9431",
+      "court_slug": "2026-05-20-kik-2026-mk-184-4a8c9431",
+      "court_filename": "2026.05.20_KIK_2026-MK-184.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_39c26ef0b172557a74f5",
+      "court_id": "court_e335b4685e2ee4a1c2b2",
+      "court_slug": "2026-06-04-kik-2026-mk-193-e4a1c2b2",
+      "court_filename": "2026.06.04_KIK_2026-MK-193.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_ef691593e9381e1df973",
+      "court_id": "court_db331219f50bc79f67b5",
+      "court_slug": "2026-06-04-kik-2026-mk-200-c79f67b5",
+      "court_filename": "2026.06.04_KIK_2026-MK-200.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

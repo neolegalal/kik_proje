@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_4027230260413f0f1b10",
+  "slug": "2019-uh-i-5-3f0f1b10",
+  "search_key": "2019UHI5",
+  "decision_label": "2019-UH.I-5",
+  "filename": "2019.01.03_KIK_2019-UH.I-5.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_d09672e1028c884aa2bf",
+      "court_id": "court_5fb5d651c3722ee0a4fd",
+      "court_slug": "2019-08-01-idare-2019-mk-236-2ee0a4fd",
+      "court_filename": "2019.08.01_IDARE_2019_MK-236.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_0c77b16c11171aaba324",
+      "court_id": "court_aa6bfaf9ed00367aab75",
+      "court_slug": "2019-09-26-idare-2019-mk-298-367aab75",
+      "court_filename": "2019.09.26_IDARE_2019_MK-298.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_b71d8e67f85c2ab227b6",
+      "court_id": "court_92a9b4a52c109a7657fe",
+      "court_slug": "2019-11-14-idare-2019-mk-315-9a7657fe",
+      "court_filename": "2019.11.14_IDARE_2019_MK-315.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_75de0cfd76970d56bdb6",
+      "court_id": "court_923add9818d2b48d215a",
+      "court_slug": "2020-01-08-idare-2020-mk-3-b48d215a",
+      "court_filename": "2020.01.08_IDARE_2020_MK-3.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_37c2ae0c427f66582f28",
+      "court_id": "court_e792f68a2ec9d1b244a3",
+      "court_slug": "2021-01-27-idare-2021-mk-34-d1b244a3",
+      "court_filename": "2021.01.27_IDARE_2021_MK-34.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

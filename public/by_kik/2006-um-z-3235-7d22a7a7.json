@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_751cc0f31d627d22a7a7",
+  "slug": "2006-um-z-3235-7d22a7a7",
+  "search_key": "2006UMZ3235",
+  "decision_label": "2006-UM.Z-3235",
+  "filename": "2006.12.25_KIK_2006-UM.Z-3235.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_ce77cbd13875262f899c",
+      "court_id": "court_a92554cc0bd298e10c27",
+      "court_slug": "2007-06-04-idare-2007-mk-61-98e10c27",
+      "court_filename": "2007.06.04_IDARE_2007_MK-61.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

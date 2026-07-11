@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_3decbaf83f3c2bc4db0d",
+  "slug": "2010-uy-iii-3616-2bc4db0d",
+  "search_key": "2010UYIII3616",
+  "decision_label": "2010-UY.III-3616",
+  "filename": "2010.11.30_KIK_2010-UY.III-3616.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_bfc64fa8dfb9a3266013",
+      "court_id": "court_21d66b5e025ffa5f5c94",
+      "court_slug": "2012-04-16-idare-2012-mk-116-fa5f5c94",
+      "court_filename": "2012.04.16_IDARE_2012_MK-116.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_6d993026d769e5737848",
+      "court_id": "court_cfe51163e7f0c6c127c4",
+      "court_slug": "2012-07-25-idare-2012-mk-231-c6c127c4",
+      "court_filename": "2012.07.25_IDARE_2012_MK-231.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_16eb974085841990688a",
+      "court_id": "court_ccbacd312a97f9061523",
+      "court_slug": "2012-12-20-idare-2012-mk-387-f9061523",
+      "court_filename": "2012.12.20_IDARE_2012_MK-387.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_4ffc08e8ca88311ede27",
+      "court_id": "court_2a843ca05de7b1a4c753",
+      "court_slug": "2012-12-20-idare-2012-mk-388-b1a4c753",
+      "court_filename": "2012.12.20_IDARE_2012_MK-388.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_c620234cd3bb5e363a20",
+      "court_id": "court_430086b79e3a89621672",
+      "court_slug": "2012-12-20-idare-2012-mk-390-89621672",
+      "court_filename": "2012.12.20_IDARE_2012_MK-390.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

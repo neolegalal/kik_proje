@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_0083b29378b4b2c2b99a",
+  "slug": "2015-uy-i-2306-b2c2b99a",
+  "search_key": "2015UYI2306",
+  "decision_label": "2015-UY.I-2306",
+  "filename": "2015.08.19_KIK_2015-UY.I-2306.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_fd8e7d5c3915acf8a16c",
+      "court_id": "court_9b7f8d1eb2ac203f9214",
+      "court_slug": "2016-04-06-idare-2016-mk-137-203f9214",
+      "court_filename": "2016.04.06_IDARE_2016_MK-137.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

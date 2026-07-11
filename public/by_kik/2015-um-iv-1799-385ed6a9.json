@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_415cad6e1041385ed6a9",
+  "slug": "2015-um-iv-1799-385ed6a9",
+  "search_key": "2015UMIV1799",
+  "decision_label": "2015-UM.IV-1799",
+  "filename": "2015.06.24_KIK_2015-UM.IV-1799.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_df1df570bb8389bf3c33",
+      "court_id": "court_5b7f0a958965d0531d34",
+      "court_slug": "2016-02-10-idare-2016-mk-57-d0531d34",
+      "court_filename": "2016.02.10_IDARE_2016_MK-57.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_a42c5b00625f5a7e7dc6",
+  "slug": "2006-uy-z-3281-5a7e7dc6",
+  "search_key": "2006UYZ3281",
+  "decision_label": "2006-UY.Z-3281",
+  "filename": "2006.12.25_KIK_2006-UY.Z-3281.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_ba44e48dbffe89e4e78f",
+      "court_id": "court_d152f746ceb874fbdf36",
+      "court_slug": "2012-03-05-idare-2012-mk-58-74fbdf36",
+      "court_filename": "2012.03.05_IDARE_2012_MK-58.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

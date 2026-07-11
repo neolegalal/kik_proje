@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_71cefd0149c6fe96f619",
+  "slug": "2010-uy-iii-1176-fe96f619",
+  "search_key": "2010UYIII1176",
+  "decision_label": "2010-UY.III-1176",
+  "filename": "2010.04.26_KIK_2010-UY.III-1176.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_fd40042337fa8cec9c9c",
+      "court_id": "court_54fe3dcdd2c65fb6dee2",
+      "court_slug": "2010-11-01-idare-2010-mk-176-5fb6dee2",
+      "court_filename": "2010.11.01_IDARE_2010_MK-176.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

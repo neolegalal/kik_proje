@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_8efd194c9b2c5d51a8e4",
+  "slug": "2018-uy-i-473-5d51a8e4",
+  "search_key": "2018UYI473",
+  "decision_label": "2018-UY.I-473",
+  "filename": "2018.02.21_KIK_2018-UY.I-473.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_14b82c2d563a4d8d8919",
+      "court_id": "court_fcb3aae484d005cf0b25",
+      "court_slug": "2018-07-05-idare-2018-mk-236-05cf0b25",
+      "court_filename": "2018.07.05_IDARE_2018_MK-236.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

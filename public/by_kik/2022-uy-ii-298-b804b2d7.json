@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_a750edab13f3b804b2d7",
+  "slug": "2022-uy-ii-298-b804b2d7",
+  "search_key": "2022UYII298",
+  "decision_label": "2022-UY.II-298",
+  "filename": "2022.02.23_KIK_2022-UY.II-298.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_09a13598a14ee27f1b9a",
+      "court_id": "court_0b102c71567bb4450b1e",
+      "court_slug": "2022-08-24-idare-2022-mk-276-b4450b1e",
+      "court_filename": "2022.08.24_IDARE_2022_MK-276.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_a9351d964f71cca2a095",
+      "court_id": "court_da1348b07087c350cb8c",
+      "court_slug": "2022-08-24-idare-2022-mk-277-c350cb8c",
+      "court_filename": "2022.08.24_IDARE_2022_MK-277.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_eae9e749763f90fc25c0",
+      "court_id": "court_be0f8c088b5006e2e385",
+      "court_slug": "2022-11-09-idare-2022-mk-309-06e2e385",
+      "court_filename": "2022.11.09_IDARE_2022_MK-309.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_c83327f99f9116364980",
+      "court_id": "court_6f2d66ef76d83ef45e1c",
+      "court_slug": "2023-05-04-idare-2023-mk-92-3ef45e1c",
+      "court_filename": "2023.05.04_IDARE_2023_MK-92.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_f4c7fe2cead02dcaad62",
+      "court_id": "court_5184cb80224bc7fcd892",
+      "court_slug": "2023-08-16-idare-2023-mk-199-c7fcd892",
+      "court_filename": "2023.08.16_IDARE_2023_MK-199.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

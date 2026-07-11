@@ -1,0 +1,15 @@
+{
+  "product": "NeoLegal Legal Relationship Engine",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "generated_at": "2026-07-12T00:40:48",
+  "source_csv": "C:\\Users\\MSI\\Desktop\\kik_proje\\production_runs\\260_filename_to_court_exact_match\\02_kik_court_exact_links.csv",
+  "source_csv_sha256": "c01098a062f1270872611e14d3a6e58ea41246d79aea993e55c215c2000cfb88",
+  "source_relationship_rows": 9560,
+  "published_relationship_rows": 9560,
+  "unique_kik_decisions": 5557,
+  "unique_court_decisions": 6296,
+  "public_local_paths_included": false,
+  "exact_match_only": true,
+  "confidence": 100
+}

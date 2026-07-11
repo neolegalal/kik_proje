@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_73ddc813b9ae383abd36",
+  "slug": "2009-uy-ii-2250-383abd36",
+  "search_key": "2009UYII2250",
+  "decision_label": "2009-UY.II-2250",
+  "filename": "2009.09.07_KIK_2009-UY.II-2250.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_efaf3d4c90e143b28a54",
+      "court_id": "court_db9f5f7de89361cde40b",
+      "court_slug": "2010-05-31-idare-2010-mk-73-61cde40b",
+      "court_filename": "2010.05.31_IDARE_2010_MK-73.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

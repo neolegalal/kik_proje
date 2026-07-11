@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_1320c848e895c6941bc6",
+  "slug": "2021-uh-iv-1176-c6941bc6",
+  "search_key": "2021UHIV1176",
+  "decision_label": "2021-UH.IV-1176",
+  "filename": "2021.06.16_KIK_2021-UH.IV-1176.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_ed41e87b43531f2e21b5",
+      "court_id": "court_ee3810e852c90de3211a",
+      "court_slug": "2021-10-13-idare-2021-mk-401-0de3211a",
+      "court_filename": "2021.10.13_IDARE_2021_MK-401.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

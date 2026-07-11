@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_4505ebf6266f03d670fe",
+  "slug": "2025-uh-i-56-03d670fe",
+  "search_key": "2025UHI56",
+  "decision_label": "2025-UH.I-56",
+  "filename": "2025.01.02_KIK_2025-UH.I-56.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_cb91718261904abe23d0",
+      "court_id": "court_ca06409210b1de59db5f",
+      "court_slug": "2025-06-25-idare-2025-mk-102-de59db5f",
+      "court_filename": "2025.06.25_IDARE_2025_MK-102.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_ba5fe14f288b5d729a62",
+      "court_id": "court_ad30cc00a9c9955d62b9",
+      "court_slug": "2025-06-25-idare-2025-mk-103-955d62b9",
+      "court_filename": "2025.06.25_IDARE_2025_MK-103.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_019e4d6482cb517abac7",
+      "court_id": "court_2313fc9d793a9691ae15",
+      "court_slug": "2025-06-25-idare-2025-mk-104-9691ae15",
+      "court_filename": "2025.06.25_IDARE_2025_MK-104.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_b65582bd5ac97e6203b9",
+      "court_id": "court_a9088d9d2d3c1949fd4c",
+      "court_slug": "2025-07-30-idare-2025-mk-141-1949fd4c",
+      "court_filename": "2025.07.30_IDARE_2025_MK-141.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_d9bbbc4d84cdee275cf4",
+      "court_id": "court_9d541e6fbdac6287c1bb",
+      "court_slug": "2025-11-26-idare-2025-mk-217-6287c1bb",
+      "court_filename": "2025.11.26_IDARE_2025_MK-217.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

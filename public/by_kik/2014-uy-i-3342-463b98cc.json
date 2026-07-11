@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_133c6513e4d9463b98cc",
+  "slug": "2014-uy-i-3342-463b98cc",
+  "search_key": "2014UYI3342",
+  "decision_label": "2014-UY.I-3342",
+  "filename": "2014.10.01_KIK_2014-UY.I-3342.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_9eccfcb77816b3604b91",
+      "court_id": "court_14f57710be8c3a1ae52a",
+      "court_slug": "2014-11-28-idare-2014-mk-554-3a1ae52a",
+      "court_filename": "2014.11.28_IDARE_2014_MK-554.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

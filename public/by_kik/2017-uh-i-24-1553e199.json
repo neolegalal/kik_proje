@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_cf5e42a7e5bc1553e199",
+  "slug": "2017-uh-i-24-1553e199",
+  "search_key": "2017UHI24",
+  "decision_label": "2017-UH.I-24",
+  "filename": "2017.01.04_KIK_2017-UH.I-24.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_e991324b5baafaeed182",
+      "court_id": "court_a01fa50cd654eab65982",
+      "court_slug": "2018-02-21-idare-2018-mk-67-eab65982",
+      "court_filename": "2018.02.21_IDARE_2018_MK-67.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_5f6f8cbb713928666460",
+      "court_id": "court_d02a65f13e5a849b5547",
+      "court_slug": "2018-06-06-idare-2018-mk-208-849b5547",
+      "court_filename": "2018.06.06_IDARE_2018_MK-208.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_8c3c5d4c69e5f233cf5f",
+      "court_id": "court_f42ef82e6b2432e6aa67",
+      "court_slug": "2018-06-12-idare-2018-mk-212-32e6aa67",
+      "court_filename": "2018.06.12_IDARE_2018_MK-212.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_49250f59e97dd30cf06e",
+      "court_id": "court_d31d6ae14ea47bf272ce",
+      "court_slug": "2018-08-14-idare-2018-mk-296-7bf272ce",
+      "court_filename": "2018.08.14_IDARE_2018_MK-296.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_a56950ef0153fd75499e",
+      "court_id": "court_da334bd9dbc369920bb4",
+      "court_slug": "2018-08-14-idare-2018-mk-297-69920bb4",
+      "court_filename": "2018.08.14_IDARE_2018_MK-297.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

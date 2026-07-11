@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_7d59762145f3d42a9f5a",
+  "slug": "2020-uh-i-2025-d42a9f5a",
+  "search_key": "2020UHI2025",
+  "decision_label": "2020-UH.I-2025",
+  "filename": "2020.12.08_KIK_2020-UH.I-2025.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_b191b94f87102822f65a",
+      "court_id": "court_e7c47d661efe8f8d12a2",
+      "court_slug": "2021-02-24-idare-2021-mk-78-8f8d12a2",
+      "court_filename": "2021.02.24_IDARE_2021_MK-78.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9d69228d326a05351e3b",
+      "court_id": "court_8a072ba03fdd5f62705b",
+      "court_slug": "2021-07-29-idare-2021-mk-305-5f62705b",
+      "court_filename": "2021.07.29_IDARE_2021_MK-305.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_744b400d23d4cd20d93e",
+      "court_id": "court_9c5933a59a1ba36025e6",
+      "court_slug": "2021-10-20-idare-2021-mk-408-a36025e6",
+      "court_filename": "2021.10.20_IDARE_2021_MK-408.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_4fb1c0dd74ff3adf157c",
+      "court_id": "court_e2206afa530a0d34cf99",
+      "court_slug": "2022-01-05-idare-2022-mk-9-0d34cf99",
+      "court_filename": "2022.01.05_IDARE_2022_MK-9.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_0ad1667aa46b5aad6d9d",
+      "court_id": "court_9d673f55207f4caedf1d",
+      "court_slug": "2022-05-11-idare-2022-mk-159-4caedf1d",
+      "court_filename": "2022.05.11_IDARE_2022_MK-159.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

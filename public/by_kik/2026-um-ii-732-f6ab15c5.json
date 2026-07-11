@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_ca459db6e42bf6ab15c5",
+  "slug": "2026-um-ii-732-f6ab15c5",
+  "search_key": "2026UMII732",
+  "decision_label": "2026-UM.II-732",
+  "filename": "2026.03.04_KIK_2026-UM.II-732.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_3ea207df6152dc97684e",
+      "court_id": "court_6d2339058fd45d63352b",
+      "court_slug": "2026-05-20-kik-2026-mk-185-5d63352b",
+      "court_filename": "2026.05.20_KIK_2026-MK-185.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

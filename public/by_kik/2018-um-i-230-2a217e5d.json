@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_95b7e60442ff2a217e5d",
+  "slug": "2018-um-i-230-2a217e5d",
+  "search_key": "2018UMI230",
+  "decision_label": "2018-UM.I-230",
+  "filename": "2018.01.17_KIK_2018-UM.I-230.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_76722fc171b2c2676974",
+      "court_id": "court_379c2916cd48dad7ccc5",
+      "court_slug": "2018-04-17-idare-2018-mk-135-dad7ccc5",
+      "court_filename": "2018.04.17_IDARE_2018_MK-135.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

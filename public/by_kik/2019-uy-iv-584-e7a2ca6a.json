@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_dc6d98a60c2ce7a2ca6a",
+  "slug": "2019-uy-iv-584-e7a2ca6a",
+  "search_key": "2019UYIV584",
+  "decision_label": "2019-UY.IV-584",
+  "filename": "2019.05.15_KIK_2019-UY.IV-584.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_0f8ae82b745023a05089",
+      "court_id": "court_f4af80cdea7f8df84112",
+      "court_slug": "2019-08-08-idare-2019-mk-242-8df84112",
+      "court_filename": "2019.08.08_IDARE_2019_MK-242.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

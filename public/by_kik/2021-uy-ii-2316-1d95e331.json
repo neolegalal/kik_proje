@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_cd656f6468161d95e331",
+  "slug": "2021-uy-ii-2316-1d95e331",
+  "search_key": "2021UYII2316",
+  "decision_label": "2021-UY.II-2316",
+  "filename": "2021.12.22_KIK_2021-UY.II-2316.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_113e515d28d6c49bff0d",
+      "court_id": "court_6df8dd18a385bc2ad577",
+      "court_slug": "2022-04-20-idare-2022-mk-138-bc2ad577",
+      "court_filename": "2022.04.20_IDARE_2022_MK-138.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_3ddc49a3bb9d003e1305",
+  "slug": "2016-uh-i-224-003e1305",
+  "search_key": "2016UHI224",
+  "decision_label": "2016-UH.I-224",
+  "filename": "2016.01.20_KIK_2016-UH.I-224.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_5458d231508668835ef8",
+      "court_id": "court_9fc62d8e8c826f96733d",
+      "court_slug": "2022-05-11-idare-2022-mk-161-6f96733d",
+      "court_filename": "2022.05.11_IDARE_2022_MK-161.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

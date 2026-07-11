@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_04539eaa869e01a7f64a",
+  "slug": "2025-uh-ii-23-01a7f64a",
+  "search_key": "2025UHII23",
+  "decision_label": "2025-UH.II-23",
+  "filename": "2025.01.02_KIK_2025-UH.II-23.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_9546d28a45e0d5b1309f",
+      "court_id": "court_b4cfe33a55eec2d84c64",
+      "court_slug": "2026-01-28-idare-2026-mk-22-c2d84c64",
+      "court_filename": "2026.01.28_IDARE_2026_MK-22.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_c57acbd5074974450de1",
+      "court_id": "court_e15f56925f8a58d21150",
+      "court_slug": "2026-03-12-idare-2026-mk-81-58d21150",
+      "court_filename": "2026.03.12_IDARE_2026_MK-81.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_b15b43595078ce2bcd0f",
+      "court_id": "court_a7b63713e4f2f5dc8b1a",
+      "court_slug": "2026-04-29-kik-2026-mk-148-f5dc8b1a",
+      "court_filename": "2026.04.29_KIK_2026-MK-148.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_d92dd132de844b91897c",
+      "court_id": "court_c93ccd6a71f4cd6afb2d",
+      "court_slug": "2026-05-20-kik-2026-mk-181-cd6afb2d",
+      "court_filename": "2026.05.20_KIK_2026-MK-181.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_ecff77ce95010c33c76b",
+      "court_id": "court_1a28be43c389f29bc2b1",
+      "court_slug": "2026-06-04-kik-2026-mk-194-f29bc2b1",
+      "court_filename": "2026.06.04_KIK_2026-MK-194.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

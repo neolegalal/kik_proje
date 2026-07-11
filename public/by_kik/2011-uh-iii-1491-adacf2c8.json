@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_2c673875f625adacf2c8",
+  "slug": "2011-uh-iii-1491-adacf2c8",
+  "search_key": "2011UHIII1491",
+  "decision_label": "2011-UH.III-1491",
+  "filename": "2011.05.02_KIK_2011-UH.III-1491.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_b5c394d84194c9e713cd",
+      "court_id": "court_cb9a89482db561aa60ec",
+      "court_slug": "2019-02-14-idare-2019-mk-59-61aa60ec",
+      "court_filename": "2019.02.14_IDARE_2019_MK-59.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

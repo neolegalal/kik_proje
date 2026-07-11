@@ -1,0 +1,109 @@
+{
+  "kik_id": "kik_f3c27dd878c4a01d5428",
+  "slug": "2013-uy-ii-2159-a01d5428",
+  "search_key": "2013UYII2159",
+  "decision_label": "2013-UY.II-2159",
+  "filename": "2013.05.15_KIK_2013-UY.II-2159.pdf",
+  "court_decision_count": 11,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_c41589594497d3c858f3",
+      "court_id": "court_2c8296e56acd2d271729",
+      "court_slug": "2013-11-20-idare-2013-mk-361-2d271729",
+      "court_filename": "2013.11.20_IDARE_2013_MK-361.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9a3a2da8e75a53d4525b",
+      "court_id": "court_8a61db33c6513e2ef5ed",
+      "court_slug": "2014-04-02-idare-2014-mk-143-3e2ef5ed",
+      "court_filename": "2014.04.02_IDARE_2014_MK-143.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9742550dd1ab468959ed",
+      "court_id": "court_1ebf66e552ced5d816cf",
+      "court_slug": "2014-06-25-idare-2014-mk-339-d5d816cf",
+      "court_filename": "2014.06.25_IDARE_2014_MK-339.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_e5cc1a9ef59a7b65ccf8",
+      "court_id": "court_cf8739f5f37f5d456b6c",
+      "court_slug": "2015-01-07-idare-2015-mk-1-5d456b6c",
+      "court_filename": "2015.01.07_IDARE_2015_MK-1.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_0a324a9661f3567ab9fd",
+      "court_id": "court_d69045bf26b95ad4946c",
+      "court_slug": "2015-01-28-idare-2015-mk-36-5ad4946c",
+      "court_filename": "2015.01.28_IDARE_2015_MK-36.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_11872bec2f51cf156232",
+      "court_id": "court_8cebf5856229720a5559",
+      "court_slug": "2015-03-25-idare-2015-mk-122-720a5559",
+      "court_filename": "2015.03.25_IDARE_2015_MK-122.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_a7f787da0aa36eec42c6",
+      "court_id": "court_a769f9f8a2ff47997242",
+      "court_slug": "2015-03-25-idare-2015-mk-123-47997242",
+      "court_filename": "2015.03.25_IDARE_2015_MK-123.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_97ba2c80245355641046",
+      "court_id": "court_145ca841613581a6b68d",
+      "court_slug": "2015-04-17-idare-2015-mk-172-81a6b68d",
+      "court_filename": "2015.04.17_IDARE_2015_MK-172.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_c860e739c6f5263b7547",
+      "court_id": "court_00b190ce900ea5b4c300",
+      "court_slug": "2015-06-24-idare-2015-mk-273-a5b4c300",
+      "court_filename": "2015.06.24_IDARE_2015_MK-273.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_6943dcb17f46d7826b38",
+      "court_id": "court_312c3868ee81562e0ce6",
+      "court_slug": "2015-06-24-idare-2015-mk-274-562e0ce6",
+      "court_filename": "2015.06.24_IDARE_2015_MK-274.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_dca9cfb640ee7e488591",
+      "court_id": "court_ff2fbb207c71ccd45ea5",
+      "court_slug": "2016-01-07-idare-2016-mk-7-ccd45ea5",
+      "court_filename": "2016.01.07_IDARE_2016_MK-7.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_2673e2b48e14334a91c2",
+  "slug": "2012-uy-i-2298-334a91c2",
+  "search_key": "2012UYI2298",
+  "decision_label": "2012-UY.I-2298",
+  "filename": "2012.05.28_KIK_2012-UY.I-2298.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_5a993396ce76591ca940",
+      "court_id": "court_66f651562db43f9595e3",
+      "court_slug": "2012-08-01-idare-2012-mk-243-3f9595e3",
+      "court_filename": "2012.08.01_IDARE_2012_MK-243.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

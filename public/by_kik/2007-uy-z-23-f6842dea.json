@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_2a0322ec8974f6842dea",
+  "slug": "2007-uy-z-23-f6842dea",
+  "search_key": "2007UYZ23",
+  "decision_label": "2007-UY.Z-23",
+  "filename": "2007.01.08_KIK_2007-UY.Z-23.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_0a2f3fc485fc36d52cc0",
+      "court_id": "court_7fce2acc2498681b362d",
+      "court_slug": "2007-12-24-idare-2007-mk-142-681b362d",
+      "court_filename": "2007.12.24_IDARE_2007_MK-142.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_a87f47d6eb69a276fb1f",
+      "court_id": "court_9590a1cc399a5f53a363",
+      "court_slug": "2008-03-03-idare-2008-mk-21-5f53a363",
+      "court_filename": "2008.03.03_IDARE_2008_MK-21.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_3593b2fdc789467b0654",
+      "court_id": "court_3f70ed5fad78a257397b",
+      "court_slug": "2008-03-31-idare-2008-mk-38-a257397b",
+      "court_filename": "2008.03.31_IDARE_2008_MK-38.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_93336de980b91e180d3b",
+      "court_id": "court_eb3d50b43e3cfd0fd338",
+      "court_slug": "2008-06-24-idare-2008-mk-75-fd0fd338",
+      "court_filename": "2008.06.24_IDARE_2008_MK-75.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_debff658a8eed2a88295",
+      "court_id": "court_ceea9f8443dca0719ba2",
+      "court_slug": "2009-11-23-idare-2009-mk-160-a0719ba2",
+      "court_filename": "2009.11.23_IDARE_2009_MK-160.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

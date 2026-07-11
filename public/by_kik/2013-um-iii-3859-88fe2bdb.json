@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_9ac605dd518288fe2bdb",
+  "slug": "2013-um-iii-3859-88fe2bdb",
+  "search_key": "2013UMIII3859",
+  "decision_label": "2013-UM.III-3859",
+  "filename": "2013.10.09_KIK_2013-UM.III-3859.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_918af8049b1184b8785c",
+      "court_id": "court_c4e8112f0ec6b88eb6ec",
+      "court_slug": "2020-05-07-idare-2020-mk-98-b88eb6ec",
+      "court_filename": "2020.05.07_IDARE_2020_MK-98.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

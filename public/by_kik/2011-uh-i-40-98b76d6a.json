@@ -1,0 +1,46 @@
+{
+  "kik_id": "kik_c070e06cf7f998b76d6a",
+  "slug": "2011-uh-i-40-98b76d6a",
+  "search_key": "2011UHI40",
+  "decision_label": "2011-UH.I-40",
+  "filename": "2011.01.03_KIK_2011-UH.I-40.pdf",
+  "court_decision_count": 4,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_80b9a404e076aeea901b",
+      "court_id": "court_69e71e1262fbbba6e9d9",
+      "court_slug": "2012-04-16-idare-2012-mk-106-bba6e9d9",
+      "court_filename": "2012.04.16_IDARE_2012_MK-106.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_52a64f56ceb41d275819",
+      "court_id": "court_a355cdb9fa64da19a796",
+      "court_slug": "2012-05-31-idare-2012-mk-164-da19a796",
+      "court_filename": "2012.05.31_IDARE_2012_MK-164.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_6b303b3ce582f33f3091",
+      "court_id": "court_02e03633032b5e26d75f",
+      "court_slug": "2012-10-22-idare-2012-mk-331-5e26d75f",
+      "court_filename": "2012.10.22_IDARE_2012_MK-331.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_5ac9032104bda2414b8d",
+      "court_id": "court_58f8db9483567038151f",
+      "court_slug": "2014-03-25-idare-2014-mk-129-7038151f",
+      "court_filename": "2014.03.25_IDARE_2014_MK-129.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

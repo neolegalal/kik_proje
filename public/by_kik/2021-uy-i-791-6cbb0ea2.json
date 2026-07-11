@@ -1,0 +1,37 @@
+{
+  "kik_id": "kik_e7dda74fcc5f6cbb0ea2",
+  "slug": "2021-uy-i-791-6cbb0ea2",
+  "search_key": "2021UYI791",
+  "decision_label": "2021-UY.I-791",
+  "filename": "2021.04.07_KIK_2021-UY.I-791.pdf",
+  "court_decision_count": 3,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_6ef9652cca0b6bb3ac93",
+      "court_id": "court_aec03dbcb24956b2f1f9",
+      "court_slug": "2021-06-30-idare-2021-mk-266-56b2f1f9",
+      "court_filename": "2021.06.30_IDARE_2021_MK-266.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_4f7e4e0db5a9afa8d06a",
+      "court_id": "court_da3749e36e4c63518fe5",
+      "court_slug": "2021-10-27-idare-2021-mk-412-63518fe5",
+      "court_filename": "2021.10.27_IDARE_2021_MK-412.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_abde13f527aa89f1b7db",
+      "court_id": "court_97e4620ba4fee4b84670",
+      "court_slug": "2022-06-15-idare-2022-mk-197-e4b84670",
+      "court_filename": "2022.06.15_IDARE_2022_MK-197.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

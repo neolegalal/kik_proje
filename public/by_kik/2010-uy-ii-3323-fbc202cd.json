@@ -1,0 +1,28 @@
+{
+  "kik_id": "kik_3832bbdc1183fbc202cd",
+  "slug": "2010-uy-ii-3323-fbc202cd",
+  "search_key": "2010UYII3323",
+  "decision_label": "2010-UY.II-3323",
+  "filename": "2010.11.01_KIK_2010-UY.II-3323.pdf",
+  "court_decision_count": 2,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_2b2c1073c94c395ac177",
+      "court_id": "court_76d5dcf802e4de759204",
+      "court_slug": "2011-03-17-idare-2011-mk-60-de759204",
+      "court_filename": "2011.03.17_IDARE_2011_MK-60.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_3a9a42d7b9706ad3c812",
+      "court_id": "court_34e64d0a8ac20d114dc2",
+      "court_slug": "2011-05-09-idare-2011-mk-102-0d114dc2",
+      "court_filename": "2011.05.09_IDARE_2011_MK-102.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

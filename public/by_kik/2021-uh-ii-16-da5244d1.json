@@ -1,0 +1,64 @@
+{
+  "kik_id": "kik_ee4929c268f2da5244d1",
+  "slug": "2021-uh-ii-16-da5244d1",
+  "search_key": "2021UHII16",
+  "decision_label": "2021-UH.II-16",
+  "filename": "2021.01.06_KIK_2021-UH.II-16.pdf",
+  "court_decision_count": 6,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_4e3b11ab49469665e537",
+      "court_id": "court_bc87403c162cb0256f4f",
+      "court_slug": "2022-01-19-idare-2022-mk-18-b0256f4f",
+      "court_filename": "2022.01.19_IDARE_2022_MK-18.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_5d166227409dd21bf0ad",
+      "court_id": "court_512fb9a2e9ebb547e133",
+      "court_slug": "2022-01-19-idare-2022-mk-19-b547e133",
+      "court_filename": "2022.01.19_IDARE_2022_MK-19.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_25a82075e3604262b736",
+      "court_id": "court_d78a5f528354a9a5f274",
+      "court_slug": "2022-01-19-idare-2022-mk-20-a9a5f274",
+      "court_filename": "2022.01.19_IDARE_2022_MK-20.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_8c08b805904dbb9697b0",
+      "court_id": "court_d0639cd10f39744727c2",
+      "court_slug": "2022-07-07-idare-2022-mk-229-744727c2",
+      "court_filename": "2022.07.07_IDARE_2022_MK-229.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_f589372757e1b46bed9e",
+      "court_id": "court_10eff9069e99adedbd73",
+      "court_slug": "2022-07-07-idare-2022-mk-233-adedbd73",
+      "court_filename": "2022.07.07_IDARE_2022_MK-233.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_0eb52127c34f6b0bfb30",
+      "court_id": "court_18045a8203bfd804ad3a",
+      "court_slug": "2022-07-07-idare-2022-mk-234-d804ad3a",
+      "court_filename": "2022.07.07_IDARE_2022_MK-234.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_e3004e6eb50ce269a309",
+  "slug": "2007-uh-z-171-e269a309",
+  "search_key": "2007UHZ171",
+  "decision_label": "2007-UH.Z-171",
+  "filename": "2007.01.22_KIK_2007-UH.Z-171.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_ccaf4a9b027c36182bf2",
+      "court_id": "court_9c21094319fd8b58d70c",
+      "court_slug": "2007-08-20-idare-2007-mk-94-8b58d70c",
+      "court_filename": "2007.08.20_IDARE_2007_MK-94.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_37876e6397453b6d9dfe",
+      "court_id": "court_9d4c09614b9ff49c4bab",
+      "court_slug": "2009-07-13-idare-2009-mk-103-f49c4bab",
+      "court_filename": "2009.07.13_IDARE_2009_MK-103.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_326b5355e0548cd94dbf",
+      "court_id": "court_e639de4fb13bfdf9745c",
+      "court_slug": "2009-11-09-idare-2009-mk-153-fdf9745c",
+      "court_filename": "2009.11.09_IDARE_2009_MK-153.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_d2b98c7f30d43db87d2e",
+      "court_id": "court_02d2f6e9ed6f911bf1ea",
+      "court_slug": "2010-06-07-idare-2010-mk-75-911bf1ea",
+      "court_filename": "2010.06.07_IDARE_2010_MK-75.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_93f70ce6805ff4ae106d",
+      "court_id": "court_08fb2b33672ec964555b",
+      "court_slug": "2011-03-07-idare-2011-mk-54-c964555b",
+      "court_filename": "2011.03.07_IDARE_2011_MK-54.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_226d7ee97fd50ea6ccfe",
+  "slug": "2015-um-i-1523-0ea6ccfe",
+  "search_key": "2015UMI1523",
+  "decision_label": "2015-UM.I-1523",
+  "filename": "2015.06.03_KIK_2015-UM.I-1523.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_6edfd55a45936ce64c36",
+      "court_id": "court_00f22a4f88833d00955e",
+      "court_slug": "2015-12-23-idare-2015-mk-522-3d00955e",
+      "court_filename": "2015.12.23_IDARE_2015_MK-522.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

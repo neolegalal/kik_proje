@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_19170b5045a7e4144934",
+  "slug": "2025-uh-i-790-e4144934",
+  "search_key": "2025UHI790",
+  "decision_label": "2025-UH.I-790",
+  "filename": "2025.03.19_KIK_2025-UH.I-790.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_97a71efc9b073ffa0578",
+      "court_id": "court_fd3c005753169999fe04",
+      "court_slug": "2025-10-30-idare-2025-mk-190-9999fe04",
+      "court_filename": "2025.10.30_IDARE_2025_MK-190.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

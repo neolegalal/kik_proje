@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_2ea3bf9fa821ae170715",
+  "slug": "2023-uy-i-655-ae170715",
+  "search_key": "2023UYI655",
+  "decision_label": "2023-UY.I-655",
+  "filename": "2023.04.13_KIK_2023-UY.I-655.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_3442cdca0d46e0cbdb59",
+      "court_id": "court_de9751852e8668756382",
+      "court_slug": "2023-11-15-idare-2023-mk-224-68756382",
+      "court_filename": "2023.11.15_IDARE_2023_MK-224.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_7d90c9f0362a2be00c26",
+  "slug": "2011-uh-ii-156-2be00c26",
+  "search_key": "2011UHII156",
+  "decision_label": "2011-UH.II-156",
+  "filename": "2011.01.10_KIK_2011-UH.II-156.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_2c6e3ba418ab7d9a1bb1",
+      "court_id": "court_db8643bc05e8b77da9b7",
+      "court_slug": "2011-03-28-idare-2011-mk-76-b77da9b7",
+      "court_filename": "2011.03.28_IDARE_2011_MK-76.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

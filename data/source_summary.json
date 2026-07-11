@@ -1,0 +1,16 @@
+{
+  "kik_pdf_total": 61941,
+  "kik_files_with_search_key": 61937,
+  "unique_search_keys": 61936,
+  "unresolved_kik_filenames": 4,
+  "search_key_collisions": 1,
+  "court_pdf_total": 6824,
+  "court_parse_errors": 0,
+  "court_without_filename_match": 528,
+  "exact_link_rows": 9560,
+  "unique_kik_keys_found_in_courts": 5556,
+  "unique_kik_files_found_in_courts": 5557,
+  "kik_files_not_found_in_courts": 56380,
+  "links_csv": "C:\\Users\\MSI\\Desktop\\kik_proje\\production_runs\\260_filename_to_court_exact_match\\02_kik_court_exact_links.csv",
+  "output": "C:\\Users\\MSI\\Desktop\\kik_proje\\production_runs\\260_filename_to_court_exact_match"
+}

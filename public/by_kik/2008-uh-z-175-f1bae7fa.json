@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_f7525480a65bf1bae7fa",
+  "slug": "2008-uh-z-175-f1bae7fa",
+  "search_key": "2008UHZ175",
+  "decision_label": "2008-UH.Z-175",
+  "filename": "2008.01.14_KIK_2008-UH.Z-175.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_f6af1d020568fe733dc2",
+      "court_id": "court_8a21d9978be3cdd237a9",
+      "court_slug": "2014-03-25-idare-2014-mk-132-cdd237a9",
+      "court_filename": "2014.03.25_IDARE_2014_MK-132.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

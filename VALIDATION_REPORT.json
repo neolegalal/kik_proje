@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "checks": {
+    "source_rows": 9560,
+    "published_rows": 9560,
+    "json_rows": 9560,
+    "jsonl_rows": 9560,
+    "csv_rows": 9560,
+    "sqlite_relationship_rows": 9560,
+    "sqlite_kik_rows": 5557,
+    "sqlite_court_rows": 6296,
+    "by_kik_file_count": 5557
+  },
+  "errors": []
+}

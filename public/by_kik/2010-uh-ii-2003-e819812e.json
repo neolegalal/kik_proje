@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_c488b4ed6aefe819812e",
+  "slug": "2010-uh-ii-2003-e819812e",
+  "search_key": "2010UHII2003",
+  "decision_label": "2010-UH.II-2003",
+  "filename": "2010.07.12_KIK_2010-UH.II-2003.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_e0a90bec92ec987f430c",
+      "court_id": "court_387fea8efa859b3eeb84",
+      "court_slug": "2019-04-18-idare-2019-mk-135-9b3eeb84",
+      "court_filename": "2019.04.18_IDARE_2019_MK-135.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

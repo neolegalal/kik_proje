@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_929eb4f39c0f61d583d2",
+  "slug": "2010-uy-i-1520-61d583d2",
+  "search_key": "2010UYI1520",
+  "decision_label": "2010-UY.I-1520",
+  "filename": "2010.05.31_KIK_2010-UY.I-1520.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_07cfba61138fd23a14d6",
+      "court_id": "court_6bd3d673ef6f77664b04",
+      "court_slug": "2011-08-08-idare-2011-mk-171-77664b04",
+      "court_filename": "2011.08.08_IDARE_2011_MK-171.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

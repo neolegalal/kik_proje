@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_4b2c80375ddf274fbfbe",
+  "slug": "2016-uy-iii-1726-274fbfbe",
+  "search_key": "2016UYIII1726",
+  "decision_label": "2016-UY.III-1726",
+  "filename": "2016.06.29_KIK_2016-UY.III-1726.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_710db7622a77fc028f1c",
+      "court_id": "court_e5ec1e8ef23a19a72352",
+      "court_slug": "2016-11-02-idare-2016-mk-514-19a72352",
+      "court_filename": "2016.11.02_IDARE_2016_MK-514.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

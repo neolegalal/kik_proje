@@ -1,0 +1,19 @@
+{
+  "kik_id": "kik_ab954d6a11a869ebab0c",
+  "slug": "2019-um-i-156-69ebab0c",
+  "search_key": "2019UMI156",
+  "decision_label": "2019-UM.I-156",
+  "filename": "2019.01.30_KIK_2019-UM.I-156.pdf",
+  "court_decision_count": 1,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_782b4e6ff79af6a51345",
+      "court_id": "court_83ee4f5c3f015c1c94c5",
+      "court_slug": "2020-08-12-idare-2020-mk-191-5c1c94c5",
+      "court_filename": "2020.08.12_IDARE_2020_MK-191.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

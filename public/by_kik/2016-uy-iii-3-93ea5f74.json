@@ -1,0 +1,55 @@
+{
+  "kik_id": "kik_026e7ef5ffc293ea5f74",
+  "slug": "2016-uy-iii-3-93ea5f74",
+  "search_key": "2016UYIII3",
+  "decision_label": "2016-UY.III-3",
+  "filename": "2016.01.05_KIK_2016-UY.III-3.pdf",
+  "court_decision_count": 5,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_57ac8ced8bd68e59d507",
+      "court_id": "court_c11169eecc3aca130317",
+      "court_slug": "2017-06-14-idare-2017-mk-248-ca130317",
+      "court_filename": "2017.06.14_IDARE_2017_MK-248.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_8e7a479e84f07ab4c283",
+      "court_id": "court_e726ab9494bdfc9c5d31",
+      "court_slug": "2017-06-14-idare-2017-mk-251-fc9c5d31",
+      "court_filename": "2017.06.14_IDARE_2017_MK-251.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_26f95e618a2f718acdc8",
+      "court_id": "court_6a2a1f7d631cd4a0cf79",
+      "court_slug": "2017-07-06-idare-2017-mk-274-d4a0cf79",
+      "court_filename": "2017.07.06_IDARE_2017_MK-274.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_9b7f33ad14af627ca823",
+      "court_id": "court_115735c12f0d10a82e58",
+      "court_slug": "2017-07-12-idare-2017-mk-286-10a82e58",
+      "court_filename": "2017.07.12_IDARE_2017_MK-286.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_3752178aa7034b164dee",
+      "court_id": "court_59a9df20e2ee394420d3",
+      "court_slug": "2018-04-26-idare-2018-mk-153-394420d3",
+      "court_filename": "2018.04.26_IDARE_2018_MK-153.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}

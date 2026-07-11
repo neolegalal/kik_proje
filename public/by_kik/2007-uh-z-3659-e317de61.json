@@ -1,0 +1,28 @@
+{
+  "kik_id": "kik_aa8763d6b2dae317de61",
+  "slug": "2007-uh-z-3659-e317de61",
+  "search_key": "2007UHZ3659",
+  "decision_label": "2007-UH.Z-3659",
+  "filename": "2007.11.12_KIK_2007-UH.Z-3659.pdf",
+  "court_decision_count": 2,
+  "court_decisions": [
+    {
+      "relationship_id": "rel_011f99c570dade8d49e8",
+      "court_id": "court_859a2e7d6aba4b0d0b41",
+      "court_slug": "2008-05-27-idare-2008-mk-70-4b0d0b41",
+      "court_filename": "2008.05.27_IDARE_2008_MK-70.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    },
+    {
+      "relationship_id": "rel_ad4eede0b064146cd502",
+      "court_id": "court_e11bbccdeafc3be74583",
+      "court_slug": "2008-07-01-idare-2008-mk-78-3be74583",
+      "court_filename": "2008.07.01_IDARE_2008_MK-78.pdf",
+      "match_type": "exact_filename_key",
+      "match_status": "EXACT_FILENAME_KEY_MATCH",
+      "confidence": 100
+    }
+  ]
+}
