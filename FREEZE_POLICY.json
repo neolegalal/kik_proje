@@ -1,0 +1,9 @@
+﻿{
+  "product": "NeoLegal Legal Relationship Engine",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "status": "FROZEN_PRODUCTION",
+  "maintenance_policy": "BUG_FIX_ONLY",
+  "frozen_at": "2026-07-12T00:44:45",
+  "next_phase": "251_REAL_EXECUTE_PILOT"
+}

@@ -1,0 +1,9 @@
+{
+  "available": true,
+  "initialized": true,
+  "committed": true,
+  "tagged": true,
+  "remote_configured": false,
+  "pushed": false,
+  "push_message": "github_remote_url boş; yerel commit ve tag oluşturuldu."
+}
